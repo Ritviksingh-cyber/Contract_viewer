@@ -13,7 +13,7 @@ Built for scalable, intelligent contract understanding using the **CUAD dataset*
 
 ## 🚀 Overview
 
-Contract Viewer is designed to automate **legal contract analysis**, reducing manual effort and improving accuracy through:
+LexML is designed to automate **legal contract analysis**, reducing manual effort and improving accuracy through:
 
 * 📄 Clause extraction (rule-based + ML)
 * 🤖 Legal-BERT multi-label classification
