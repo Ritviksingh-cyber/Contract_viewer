@@ -1,7 +1,7 @@
 
 ---
 
-# ⚖️ Contract Viewer
+# ⚖️ LexML - AI Powered Contract Intelligence Engine.
 
 ### Contract Analysis and In-Depth Intuition Engine
 
